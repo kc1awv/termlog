@@ -1,0 +1,30 @@
+<adif_ver:5>3.0.8
+<created_timestamp:14>20200614 15:16
+<programid:7>termlog
+<programversion:17>v0.1.0-2-g6d58692
+<my_name:5>Steve
+<my_gridsquare:4>FN43
+<my_city:5>Dover
+<my_state:2>NH
+<my_cnty:9>Strafford
+<my_country:3>USA
+<operator:6>KC1AWV
+<eoh>
+
+<qso_date:8>20200614
+<time_on:4>1523
+<call:6>KC1AWV
+<mode:2>FM
+<freq:6>146520
+<band:2>2m
+<rst_sent:2>59
+<rst_rcvd:2>59
+<gridsquare:6>FN43ea
+<name:16>STEPHEN M MILLER
+<srx_string:2>59
+<stx_string:2>59
+<dxcc:3>291
+<notes:7>Testing
+<distance:4>27.1
+<eor>
+
